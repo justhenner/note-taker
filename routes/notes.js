@@ -1,6 +1,6 @@
 const notes = require('express').Router();
-const fs = require("fs");
-const uuid = require("../helpers/uuid");
+const fs = require('fs');
+const uuid = require('../helpers/uuid');
 
 
 notes.get("/", (req, res) => {
