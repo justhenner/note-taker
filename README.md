@@ -13,7 +13,7 @@
 ## Description
 
 Note taker, a note application created with Node.js and deployed by Heroku, allows "jotter downers" to enter, save, view, and delete notes on a user friendly interface. 
-[Click here to view site deployed on Heroku]()
+[Click here to view site deployed on Heroku](https://note-taker-hee.herokuapp.com/)
 ![Alt text](./image/Screen%20Shot%202023-03-08%20at%201.05.38%20AM.png)
 
 ## Table of Contents
